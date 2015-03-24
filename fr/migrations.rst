@@ -72,7 +72,7 @@ capable d'exécuter la commande suivante pour créer la table dans votre base de
 
         bin/cake migrations migrate
 
-Création de migrations
+Création de Migrations
 ======================
 
 Les fichiers de migrations sont stockés dans le répertoire **config/Migration**  de votre
